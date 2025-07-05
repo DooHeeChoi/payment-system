@@ -1,3 +1,7 @@
 __pycache__/
-*.pyc
+
 .env
+*.key
+*.pem
+secrets.json
+config/settings.py
