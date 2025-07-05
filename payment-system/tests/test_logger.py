@@ -1,4 +1,4 @@
 from app.logger import log
 
 def test_log():
-    log("테스트 메시지")
+    log("test message", save_to_file=True)
